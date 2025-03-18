@@ -22776,7 +22776,7 @@ var { parseHTML: parseHTML2 } = static_exports;
 var { root: root2 } = static_exports;
 
 // src/gogo.js
-var BaseURL = "https://anitaku.to";
+var BaseURL = "https://anitaku.bz";
 var USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36";
 async function getSearch(name, page = 1) {
   const response = await fetch(
